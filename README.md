@@ -1,40 +1,40 @@
 # RathmourneUI
 
-READ ME
+Read Me
 
-WELCOME TO THE ALPHA VERSION 0.01a OF RATHMOURNE UI.
+Welcome to the Alpha Version 0.01a of Rathmourne UI.
 
-TO USE THE TOOL: UNZIP THE ZIPPED FOLDER TO YOUR DESIRED DIRECTORY AND RUN RathmourneUI.EXE. PLEASE KEEP ALL FILES TOGETHER.
+To use the tool: Unzip the zipped folder to your desired directory and run RathmourneUI.exe. Please keep all files together.
 
-RATHMOURNE UI TOOL IS GAME AGNOSTIC, DOES NOT DEPEND ON GAME DATA NOR WILL IT SCRAPE MEMORY FOR ANY GAME DATA.
-THE TOOL ALSO CANNOT PERFORM ANY ACTIONS FOR THE USER IN ANY GAMES, CANNOT BE USED AS AN AUTOMATION TOOL.
+Rathmourne UI tool is game agnostic, does not depend on game data nor will it scrape memory for any game data.
+The tool also cannot perform any actions for the user in any games, cannot be used as an automation tool.
 
-THE RATHMOURNE UI TOOL CAN ONLY BE USED ON WINDOWS OPERATING SYSTEMS, TESTED ON WINDOWS 11 AND WINDOWS 10.
+The Rathmourne UI tool can only be used on Windows operating systems, tested on Windows 11 and Windows 10.
 
-THIS TEST BUILD IS FOR DIABLO 4. SOME FUNCTIONS THAT ARE INTENDED TO WORK OUTSIDE OF DIABLO 4 MAY NOT WORK.
+This test build is for Diablo 4. Some functions that are intended to work outside of Diablo 4 may not work.
 
-RATHMOURNE UI MAY NEED TO BE RUN IN ADMIN MODE OR ELEVATED MODE TO FUNCTION PROPERLY.
+Rathmourne UI may need to be run in admin mode or elevated mode to function properly.
 
-THIS BUILD CONTAINS TWO MAIN COMPONENTS AND ONE SUBCOMPONENT.
+This build contains two main components and one subcomponent.
 
-ABILITY - THIS COMPONENT IS AN ABSTRACT COMPONENT, IT DOES NOT DO ANYTHING BY ITSELF. IT HAS POWERFUL SUBCOMPONENTS, SUCH AS IMAGE REPLICATION.
+Ability - This component is an abstract component, it does not do anything by itself. It has powerful subcomponents, such as image replication.
 
-IMAGE REPLICATION COMPONENT - ALLOWS THE USER TO SPECIFY A PIXEL AREA ON THEIR MONITOR AND REPLICATE IT ONTO ANOTHER PART OF THE SCREEN. YOU CAN CONTROL THE INPUT SIZE, OUTPUT SIZE, AND ALPHA.
+Image replication component - Allows the user to specify a pixel area on their monitor and replicate it onto another part of the screen. You can control the input size, output size, and alpha.
 
-ABILITY FORMATTER COMPONENT - WILL ALLOW MULTIPLE IMAGE REPLICATION COMPONENTS TO BE PROPERLY ALIGNED AND FORMATTED TO THE USER'S LIKING. THE FORMATTER WILL OVERRIDE OUTGOING SIZE AND ALPHA OF IMAGE REPLICATORS.
+Ability formatter component - Will allow multiple image replication components to be properly aligned and formatted to the user's liking. The formatter will override outgoing size and alpha of image replicators.
 
-RATHMOURNE UI HAS A BASIC SAVE SYSTEM WHICH WILL BE OVERHAULED INTO A MULTIPLE PROFILE SAVE SYSTEM IN THE FUTURE. SAVING OCCURS WHEN EXITING EDIT MODE AND EXITING THE APPLICATION.
+Rathmourne UI has a basic save system which will be overhauled into a multiple profile save system in the future. Saving occurs when exiting edit mode and exiting the application.
 
-HERE ARE USEFUL HOTKEYS:
+Here are useful hotkeys:
 
-CTRL-ALT-J: TOGGLE EDIT MODE ON AND OFF.
+Ctrl-Alt-J: Toggle edit mode on and off.
 
-WHILE IN EDIT MODE:
-- RIGHT-CLICK TO SELECT COMPONENTS.
-- IF A FORMATTER IS SELECTED, YOU MAY SHIFT-LEFT-CLICK IMAGE REPLICATORS TO ADD THEM TO THE FORMATTER, OR SHIFT-LEFT-CLICK IMAGE REPLICATORS ALREADY ADDED TO THE FORMATTER TO REMOVE THEM.
+While in edit mode:
 
-EDIT MODE WILL ALLOW YOU TO MOVE COMPONENTS WITH LEFT-CLICK AND DRAG. COMPONENT PROPERTIES CAN BE MODIFIED OUTSIDE OF EDIT MODE VIA THE MAIN MENU UI.
+Right-click to select components.
+If a formatter is selected, you may shift-left-click image replicators to add them to the formatter, or shift-left-click image replicators already added to the formatter to remove them.
+Edit mode will allow you to move components with left-click and drag. Component properties can be modified outside of edit mode via the main menu UI.
 
-TO KEEP UP WITH THE LATEST DEVELOPMENTS, GIVE FEEDBACK, OR SUBMIT BUG REPORTS, JOIN THE RATHMOURNE UI COMMUNITY DISCORD: https://discord.gg/RUuaqTm2XN
+To keep up with the latest developments, give feedback, or submit bug reports, join the Rathmourne UI community Discord: https://discord.gg/RUuaqTm2XN
 
-SUPPORT THE DEVELOPMENT OF RATHMOURNE UI: https://bmc.link/Rathmourne
+Support the development of Rathmourne UI: https://bmc.link/Rathmourne
